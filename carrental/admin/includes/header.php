@@ -1,6 +1,8 @@
 <div class="brand clearfix">
 
-	<a href="dashboard.php" style="font-size: 25px; margin-left:35px;color:white; margin-top:20px;">Dyon Rental | Admin Dashboard</a>  
+	<a href="dashboard.php" style="font-size: 20px; margin-left:10px;color:white;" class="mt-2"> 
+	<img src="img/dealer-logo.png" alt="" width="140px" height="70px"> 
+	Dyon Rental</a>  
 		<span class="menu-btn"><i class="fa fa-bars"></i></span>
 		<ul class="ts-profile-nav">
 			

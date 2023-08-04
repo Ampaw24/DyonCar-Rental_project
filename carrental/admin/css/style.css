@@ -37,6 +37,7 @@ html {
 ****************************/
 body {
   font-size: 1em;
+  background-color: rgb(23, 21, 29);
 }
 a {
   color: #37a6c4;
@@ -545,7 +546,7 @@ li {
   border-bottom: 1px solid #f0f0f0;
 }
 .brand {
-  background: #282b47;
+  background: #2b3348;
   position: relative;
   z-index: 3;
   position: fixed;
@@ -612,7 +613,7 @@ li {
 }
 .brand .ts-profile-nav .ts-account > a {
   width: 180px;
-  background: #2c3136;
+  background: #2b3348;
 }
 .brand .ts-profile-nav .ts-account .ts-avatar {
   border-radius: 50%;
@@ -640,7 +641,7 @@ li {
   background-color: #b4b4b4;
 }
 .ts-sidebar {
-  background: #2c3136;
+  background: #2b3348;
   max-height: 0;
   transition: max-height 0.3s;
   overflow: hidden;
